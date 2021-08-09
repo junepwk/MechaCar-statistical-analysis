@@ -14,3 +14,10 @@ The variables/coefficients 'vehicle_length', 'vehicle_weight', and 'ground_clear
 ![linear_reg_output](https://github.com/junepwk/MechaCar-statistical-analysis/blob/main/output/linear_reg_output.png)
 
 ## Summary Statistics on Suspension Coils
+The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Based on the total summary, the variance does not exceed 100 pounds per square inch.  Upon further digging on the lots separately, the variance for lot 3 exceeds the limit by at least 70 pounds per square inch. 
+
+#### Total Summary
+![total_summary](https://github.com/junepwk/MechaCar-statistical-analysis/blob/main/output/total_summary.png)
+
+#### Summary Based on Manufacturing Lot
+![lot_summary](https://github.com/junepwk/MechaCar-statistical-analysis/blob/main/output/lot_summary.png)
