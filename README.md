@@ -23,6 +23,18 @@ The design specifications for the MechaCar suspension coils dictate that the var
 ![lot_summary](https://github.com/junepwk/MechaCar-statistical-analysis/blob/main/output/lot_summary.png)
 
 ## T-Tests on Suspension Coils
+Assuming the significance level is 0.05, the p-values for all tests, excluding Lot 3 (p-value=0.042), are above the significance level. Therefore, we have sufficient evidence to reject the null hypothesis for Lot 3 meaning there is a statistical difference between the expected PSI standard and the standard that Lot 3 is displaying.  
 
+#### Test Across All Lots
+![t_test_collective](https://github.com/junepwk/MechaCar-statistical-analysis/blob/main/output/t_test_collective.png)
+
+#### Lot 1
+![lot1_test](https://github.com/junepwk/MechaCar-statistical-analysis/blob/main/output/lot1_test.png)
+
+#### Lot 2
+![lot2_test](https://github.com/junepwk/MechaCar-statistical-analysis/blob/main/output/lot2_test.png)
+
+#### Lot 3
+![lot3_test](https://github.com/junepwk/MechaCar-statistical-analysis/blob/main/output/lot3_test.png)
 
 ## Study Design: MechaCar vs Competition
