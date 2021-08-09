@@ -38,3 +38,11 @@ Assuming the significance level is 0.05, the p-values for all tests, excluding L
 ![lot3_test](https://github.com/junepwk/MechaCar-statistical-analysis/blob/main/output/lot3_test.png)
 
 ## Study Design: MechaCar vs Competition
+To study how the MechaCar performs against the competition, new metrics could be introduced to the current dataset. Metrics that would interest potential consumers are highway fuel efficiency, maintenance cost, horse power and safety rating. A multiple linear regression would be performed on both datasets to test how much the variance in the dependent variable is accounted for the performance of the vehicles.  In addition, a two-sample t-test would be used to test rather there's a statistical difference between both data distribution. 
+
+Potential Hypothesis Tests
+H Null: MechaCar's MPG Efficiency <= Competitor's 
+H Alt: MechaCar's MPG Efficiency > Competitor's
+
+H Null: MechaCar's Maintenance/Safety Cost Efficiency <= Competitor's 
+H Alt: MechaCar's Maintenance/Safety Cost Efficiency > Competitor's
