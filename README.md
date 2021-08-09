@@ -21,3 +21,8 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 #### Summary Based on Manufacturing Lot
 ![lot_summary](https://github.com/junepwk/MechaCar-statistical-analysis/blob/main/output/lot_summary.png)
+
+## T-Tests on Suspension Coils
+
+
+## Study Design: MechaCar vs Competition
